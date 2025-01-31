@@ -67,6 +67,9 @@ O estilo do projeto é definido no arquivo `style.css`, que configura a aparênc
 ## Autor
 Desenvolvido por Kauã Fernandes.
 
+## Link 
+Aqui está o deploy do Projeto feito pelo Vercel.
+
 ---
 
 Sinta-se à vontade para modificar e aprimorar o projeto!
