@@ -66,6 +66,7 @@ O estilo do projeto é definido no arquivo `style.css`, que configura a aparênc
 
 ## Link 
 Aqui está o deploy do Projeto feito pelo Vercel.
+https://desafio-amigo-secreto-phi.vercel.app
 
 ## Autor
 Desenvolvido por Kauã Fernandes.
