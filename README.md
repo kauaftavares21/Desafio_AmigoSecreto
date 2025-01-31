@@ -64,11 +64,11 @@ O estilo do projeto é definido no arquivo `style.css`, que configura a aparênc
 - Garantir que um mesmo nome não seja sorteado duas vezes consecutivas.
 - Permitir exportar os resultados do sorteio.
 
-## Autor
-Desenvolvido por Kauã Fernandes.
-
 ## Link 
 Aqui está o deploy do Projeto feito pelo Vercel.
+
+## Autor
+Desenvolvido por Kauã Fernandes.
 
 ---
 
