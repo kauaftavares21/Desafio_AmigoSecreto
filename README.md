@@ -4,9 +4,9 @@
 Este é um projeto simples de sorteio de Amigo Secreto, desenvolvido com HTML, CSS e JavaScript. Permite adicionar nomes de amigos a uma lista e sortear um deles aleatoriamente.
 
 ## Tecnologias Utilizadas
-- HTML
-- CSS
-- JavaScript
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 ## Estrutura do Projeto
 ```
@@ -65,25 +65,8 @@ O estilo do projeto é definido no arquivo `style.css`, que configura a aparênc
 - Permitir exportar os resultados do sorteio.
 
 ## Autor
-Desenvolvido por [Seu Nome].
+Desenvolvido por Kauã Fernandes.
 
 ---
 
 Sinta-se à vontade para modificar e aprimorar o projeto!
-
-
-
-
-<h1>Jogo do número secreto</h1>
-
-<h2>Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
-
-## Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-
-// Código omitido. 
